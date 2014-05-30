@@ -1,6 +1,22 @@
 Changelog
 =========
 
+Changes with Apache libcloud 0.14.2
+-----------------------------------
+
+Compute
+~~~~~~~
+
+Load Balancer
+~~~~~~~~~~~~~
+
+Storage
+~~~~~~~
+
+DNS
+~~~
+
+
 Changes with Apache 0.14.1
 --------------------------
 
